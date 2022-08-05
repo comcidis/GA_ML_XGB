@@ -1,0 +1,10 @@
+Method: CNN
+Population: 5
+Elit: 2
+Fitness: 2
+Crossover: 80.0
+Mutation: 10.0
+Generations: 1
+Score: 1.0
+Time: 1.0
+Enregy: 1.0
